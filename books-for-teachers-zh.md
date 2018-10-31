@@ -2,7 +2,7 @@
 ## 目录
 ### 中外教育家及其经典作品
 1. 春秋 [孔子](https://baike.baidu.com/item/%E5%AD%94%E5%AD%90/1584?fr=aladdin) [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
-2. 战国时期 荀子(https://baike.baidu.com/item/%E8%8D%80%E5%AD%90/283?fr=aladdin) [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
+2. 战国时期 [荀子](https://baike.baidu.com/item/%E8%8D%80%E5%AD%90/283?fr=aladdin) [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
 3. 唐朝 [韩愈](https://baike.baidu.com/item/%E9%9F%A9%E6%84%88/127407?fr=aladdin) [《师说》](https://baike.baidu.com/item/%E5%B8%88%E8%AF%B4/75226?fr=aladdin)
 4. [陶行知](https://baike.baidu.com/item/%E9%99%B6%E8%A1%8C%E7%9F%A5#3) 《教学做合一讨论集》
 5. [陈鹤琴](https://baike.baidu.com/item/%E9%99%88%E9%B9%A4%E7%90%B4/2007869?fr=aladdin) 《创作的艺术》
