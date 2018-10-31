@@ -1,2 +1,2 @@
 # Books-for-teachers
-这是一份献给全世界教师的书单
+This is a booklist for all teachers in the world.
