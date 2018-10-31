@@ -1,6 +1,6 @@
 这是一份献给中国教师的有关教育的读书清单
 ## 目录
-### 中外教育家及其经典著作
+### 中外教育家及其经典作品
 1. 春秋 孔子 [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
 2. 战国时期 荀子 [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
 3. 唐朝 韩愈 [《师说》](https://baike.baidu.com/item/%E5%B8%88%E8%AF%B4/75226?fr=aladdin)
