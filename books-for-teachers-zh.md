@@ -1,13 +1,13 @@
 这是一份献给中国教师的有关教育的读书清单
 ## 目录
 ### 中外教育家及其经典作品
-1. 春秋 孔子 [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
-2. 战国时期 荀子 [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
-3. 唐朝 韩愈 [《师说》](https://baike.baidu.com/item/%E5%B8%88%E8%AF%B4/75226?fr=aladdin)
+1. 春秋 [孔子](https://baike.baidu.com/item/%E5%AD%94%E5%AD%90/1584?fr=aladdin) [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
+2. 战国时期 荀子(https://baike.baidu.com/item/%E8%8D%80%E5%AD%90/283?fr=aladdin) [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
+3. 唐朝 [韩愈](https://baike.baidu.com/item/%E9%9F%A9%E6%84%88/127407?fr=aladdin) [《师说》](https://baike.baidu.com/item/%E5%B8%88%E8%AF%B4/75226?fr=aladdin)
 4. [陶行知](https://baike.baidu.com/item/%E9%99%B6%E8%A1%8C%E7%9F%A5#3) 《教学做合一讨论集》
 5. [陈鹤琴](https://baike.baidu.com/item/%E9%99%88%E9%B9%A4%E7%90%B4/2007869?fr=aladdin) 《创作的艺术》
 6. [昆体良](https://baike.baidu.com/item/%E6%98%86%E4%BD%93%E8%89%AF/1762337?fr=aladdin) [《雄辩术原理》](https://baike.baidu.com/item/%E9%9B%84%E8%BE%A9%E6%9C%AF%E5%8E%9F%E7%90%86)
-7. [扬·阿姆斯·夸美纽斯](https://baike.baidu.com/item/%E6%89%AC%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%C2%B7%E5%A4%B8%E7%BE%8E%E7%BA%BD%E6%96%AF/7895062?fr=aladdin) 《把整个心灵献给孩子》[《大教学论》](https://baike.baidu.com/item/%E5%A4%A7%E6%95%99%E5%AD%A6%E8%AE%BA)
+7. [扬·阿姆斯·夸美纽斯](https://baike.baidu.com/item/%E6%89%AC%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%C2%B7%E5%A4%B8%E7%BE%8E%E7%BA%BD%E6%96%AF/7895062?fr=aladdin) [《大教学论》](https://baike.baidu.com/item/%E5%A4%A7%E6%95%99%E5%AD%A6%E8%AE%BA)
 8. [让-雅克·卢梭](https://baike.baidu.com/item/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD/7169222?fr=aladdin) [《爱弥儿》](https://baike.baidu.com/item/%E7%88%B1%E5%BC%A5%E5%84%BF/72845)
 9. [裴斯泰洛奇](https://baike.baidu.com/item/%E8%A3%B4%E6%96%AF%E6%B3%B0%E6%B4%9B%E9%BD%90/1591144?fr=aladdin) 《葛杜德如何教育她的孩子》
 10. [约翰·弗里德里希·赫尔巴特]() 《普通教育学》
