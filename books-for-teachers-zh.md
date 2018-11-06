@@ -16,7 +16,7 @@
 * [陈鹤琴](https://baike.baidu.com/item/%E9%99%88%E9%B9%A4%E7%90%B4/2007869?fr=aladdin) 《创作的艺术》
 ### 国外
 * 1世纪 古罗马 [昆体良](https://baike.baidu.com/item/%E6%98%86%E4%BD%93%E8%89%AF/1762337?fr=aladdin) [《雄辩术原理》](https://baike.baidu.com/item/%E9%9B%84%E8%BE%A9%E6%9C%AF%E5%8E%9F%E7%90%86)
-* 16世纪 尼德兰（今荷兰） 伊拉斯漠 《幼儿教育论》
+* 16世纪 尼德兰（今荷兰） [伊拉斯漠](https://baike.baidu.com/item/%E5%BE%B7%E5%B8%8C%E5%BE%B7%E9%87%8C%C2%B7%E4%BC%8A%E6%8B%89%E6%96%AF%E8%8E%AB/3413845?fr=aladdin) 《幼儿教育论》
 * 17世纪 [扬·阿姆斯·夸美纽斯](https://baike.baidu.com/item/%E6%89%AC%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%C2%B7%E5%A4%B8%E7%BE%8E%E7%BA%BD%E6%96%AF/7895062?fr=aladdin) [《大教学论》](https://baike.baidu.com/item/%E5%A4%A7%E6%95%99%E5%AD%A6%E8%AE%BA)
 * 17世纪 英国 [洛克](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B/24712?fr=aladdin) [《教育漫话》](https://baike.baidu.com/item/%E6%95%99%E8%82%B2%E6%BC%AB%E8%AF%9D)
 * 18世纪 [让-雅克·卢梭](https://baike.baidu.com/item/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD/7169222?fr=aladdin) [《爱弥儿》](https://baike.baidu.com/item/%E7%88%B1%E5%BC%A5%E5%84%BF/72845)
