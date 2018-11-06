@@ -1,6 +1,10 @@
 这是一份献给中国教师的有关教育的读书清单
 ## 目录
-### 中外教育家及其经典作品
+* [教育家经典著作](#教育家经典著作)
+* [教育史](#教育史)
+* [教育学](#教育学)
+* [教育心理学](#教育心理学)
+### 教育家经典著作
 1. 春秋 [孔子](https://baike.baidu.com/item/%E5%AD%94%E5%AD%90/1584?fr=aladdin) [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
 2. 战国时期 [荀子](https://baike.baidu.com/item/%E8%8D%80%E5%AD%90/283?fr=aladdin) [《劝学》](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)
 3. 唐朝 [韩愈](https://baike.baidu.com/item/%E9%9F%A9%E6%84%88/127407?fr=aladdin) [《师说》](https://baike.baidu.com/item/%E5%B8%88%E8%AF%B4/75226?fr=aladdin)
@@ -26,3 +30,5 @@
 
 
 ### 教育学
+
+### 教育心理学
