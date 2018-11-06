@@ -6,7 +6,7 @@
 * [教育史](#教育史)
 * [教育学](#教育学)
 * [教育心理学](#教育心理学)
-* [儿童教育著作](#儿童教育)
+* [儿童教育](#儿童教育)
 ## 教育家经典著作
 ### 中国
 * 春秋 [孔子](https://baike.baidu.com/item/%E5%AD%94%E5%AD%90/1584?fr=aladdin) [《论语》](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD/372830?fr=aladdin#2)
